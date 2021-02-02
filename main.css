@@ -1,0 +1,30 @@
+.html{
+    height: 100%;
+    width: 100%;
+}
+body{
+
+    background: url(./images/jonas-vincent-xulIYVIbYIc-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    width: 100%;
+    height: 100%;
+}
+#head4{
+    /* margin-block-start: 50rem 50rem 0 0;
+    size: inherit; */
+    text-align: center ;
+    padding-top: 20%;
+    color: wheat;
+    text-shadow: 0px 1px 1px whitesmoke;
+}
+h3{
+    font-size: 20px;
+}
+#myhr{
+    width: 500px;
+    margin: 5px 319px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid #f8f8f8;
+} 
